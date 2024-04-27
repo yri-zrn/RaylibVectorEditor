@@ -1,0 +1,3 @@
+[submodule "plugins/ImGuizmo"]
+	path = plugins/ImGuizmo
+	url = https://github.com/yri-zrn/ImGuizmo.git
